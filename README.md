@@ -7,9 +7,9 @@ This project analyses 100K customer records to identify key churn drivers, high-
 
 Business Objective
 
-- Identified why customers are leaving
-- Detected high-risk customer segments
-- Provided data-driven recommendations to reduce churn
+- Identify why customers are leaving
+- Detect high-risk customer segments
+- Provide data-driven recommendations to reduce churn
 
 Dataset
 
