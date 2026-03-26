@@ -1,6 +1,5 @@
 Customer Churn Analysis & Retention Insights
 
-
 Overview
 
 Customer churn is a critical business problem impacting revenue and growth.
@@ -42,7 +41,6 @@ Dataset
   Improve onboarding experience for new users
   Optimise pricing strategies for high-charge customers
   Promote auto-payment methods to improve retention
-
 
  Dashboard Features
 
